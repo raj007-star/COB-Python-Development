@@ -33,9 +33,9 @@ This is a Python program that reads a text file, identifies unique words, and co
    ```
    file_path = 'D:\Open source\A-Z-Python-Projects\W\Word Occurrence Counter\sample.txt'
    ```
-   - However, a single backslash is also used as an escape character in Python strings. So, if you write the path like this:
+   - However, a single backslash is also used as an escape character in Python strings. So, To prevent this issue and ensure that the backslashes are treated as literal characters in the file path, you use double backslashes:
    ```
-   file_path = 'D:\Open source\A-Z-Python-Projects\W\Word Occurrence Counter\sample.txt'
+   file_path = 'D:\\Open source\\A-Z-Python-Projects\\W\\Word Occurrence Counter\\sample.txt'
    ```
    - Python interprets the backslashes as escape characters, and this could lead to unintended consequences. For example, '\W' would be interpreted as an escape sequence representing a non-printable character.
 
