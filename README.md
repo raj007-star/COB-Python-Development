@@ -1,7 +1,5 @@
 # COB-Python-Development
 
-# COB Python Development
-
 Welcome to my COB Python Development repository! Here, you will find a collection of Python projects and code samples that demonstrate my skills and experiences as an intern at Codes On Bytes. Feel free to explore the projects, browse the code, and discover the Python codes I've worked on during my internship.
 
 ## Project List
