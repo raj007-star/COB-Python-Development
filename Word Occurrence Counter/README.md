@@ -1,4 +1,5 @@
-# Word Occurrence Counter
+# [Word Occurrence Counter]() 
+[Demo Video](https://www.linkedin.com/posts/activity-7120496787936706560-W8B2?utm_source=share&utm_medium=member_desktop)
 
 This is a Python program that reads a text file, identifies unique words, and counts how many times each word appears in the file.
 
