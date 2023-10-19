@@ -11,7 +11,7 @@
 
 This is a simple Python weather forecast application that provides a 5-day weather forecast for a given city using the OpenWeatherMap API. The application features a graphical user interface (GUI) built with Tkinter and displays weather conditions with icons for each day.
 
-## [Demo]()
+## [Imgs]()
 ![Screenshot (520)](https://github.com/raj007-star/COB-Python-Development/assets/83889037/8a89edfc-6385-493e-80e3-6932864c645d)
 ![Screenshot (521)](https://github.com/raj007-star/COB-Python-Development/assets/83889037/0bde815f-37d5-4e1a-b58a-02f9402b13e7)
 ![Screenshot (522)](https://github.com/raj007-star/COB-Python-Development/assets/83889037/e3df58e0-4fac-49eb-8cac-b4700292f723)
