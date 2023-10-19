@@ -17,7 +17,7 @@ This is a simple Python weather forecast application that provides a 5-day weath
 ![Screenshot (522)](https://github.com/raj007-star/COB-Python-Development/assets/83889037/e3df58e0-4fac-49eb-8cac-b4700292f723)
 
 
-### Click on this to checkout [Video](https://res.cloudinary.com/dtznbh4rs/video/upload/v1697719273/2023-10-19_17-57-28_s9331n.mp4) Demo
+### Click on this [Video](https://res.cloudinary.com/dtznbh4rs/video/upload/v1697719273/2023-10-19_17-57-28_s9331n.mp4) to checkout the Demo
 
 
 
