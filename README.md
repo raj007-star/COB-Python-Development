@@ -7,9 +7,11 @@ Welcome to my COB Python Development repository! Here, you will find a collectio
 ### Phase 1
 
 1. **Word Occurrence Counter**
-   - **Description**: I have maintained a directory called Word Occurrence Counter  which will showcase my skills I have applied on this project. Please refer to it.
+   - **Description**: Maintained a directory called Word Occurrence Counter which will showcase my skills I have applied on this project. Please refer to it.
    - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/main/Word%20Occurrence%20Counter)
-
+2. **Weather App**
+   - **Description**: Explore the Weather Forecast Application: Get a 5-day weather outlook with icons for your city around the world in an easy-to-use graphical interface.
+   - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/main/Weather%20app)
 <!-- Add more projects as needed -->
 
 ## About Me
