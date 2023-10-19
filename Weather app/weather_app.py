@@ -41,7 +41,7 @@ def display_forecast(data):
         icon_label[i].config(image=icon)
         icon_label[i].image = icon
 
-api_key = '881bd7f1cd9c36a4a5a42383ba26a521'  # Replace with your OpenWeatherMap API key
+api_key = 'YOUR_API_KEY'  # Replace with your OpenWeatherMap API key
 
 app = tk.Tk()
 app.title("5-Day Weather Forecast")
