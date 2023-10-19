@@ -6,6 +6,8 @@
 [![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-orange)](https://pillow.readthedocs.io/en/stable/index.html)
 [![pip](https://img.shields.io/badge/pip-Package_Manager-brightgreen)](https://pypi.org/project/pip/)
 [![requests](https://img.shields.io/badge/requests-HTTP_Library-success)](https://docs.python-requests.org/en/latest/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 This is a simple Python weather forecast application that provides a 5-day weather forecast for a given city using the OpenWeatherMap API. The application features a graphical user interface (GUI) built with Tkinter and displays weather conditions with icons for each day.
 
