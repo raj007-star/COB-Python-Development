@@ -1,6 +1,6 @@
-# Expense Tracker
+# [Expense Tracker]()
 
-![Expense Tracker](expense_tracker_screenshot.png)
+
 
 A simple and intuitive expense tracker application built using Python and Tkinter. This application allows you to easily record and manage your daily expenses, helping you keep track of your spending and financial transactions.
 
