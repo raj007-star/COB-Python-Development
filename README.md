@@ -19,7 +19,7 @@ Welcome to my COB Python Development repository! Here, you will find a collectio
 
 #### Task 1
 3. **Expense Tracker**
-   - **Description**: An light weight Python application for tracking daily expenses. Record, view, and manage your spending with ease using this simple expense tracker. Stay in control of your finances and keep an eye on your daily transactions.
+   - **Description**: An intuitive and light weight Python application for tracking daily expenses. Record, view, and manage your spending with ease using this simple expense tracker. Stay in control of your finances and keep an eye on your daily transactions.
 
    - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/c28425632160f021de7309a27f3e69b8d6be54ce/Expense%20Tracker)
 
