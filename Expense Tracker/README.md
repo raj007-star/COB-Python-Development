@@ -2,6 +2,15 @@
 
 
 
+
+https://github.com/raj007-star/COB-Python-Development/assets/83889037/c86cd178-2368-4978-8114-d5b8c0109414
+
+
+
+
+
+
+
 A simple and intuitive expense tracker application built using Python and Tkinter. This application allows you to easily record and manage your daily expenses, helping you keep track of your spending and financial transactions.
 
 ## Table of Contents
