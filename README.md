@@ -14,7 +14,9 @@ Welcome to my COB Python Development repository! Here, you will find a collectio
 2. **Weather App**
    - **Description**: Explore the Weather Forecast Application: Get a 5-day weather outlook with icons for your city around the world in an easy-to-use graphical interface.
    - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/main/Weather%20app)
-<!-- Add more projects as needed -->
+3. **Expense Tracker**
+   - **Description**:
+   - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/c28425632160f021de7309a27f3e69b8d6be54ce/Expense%20Tracker)
 
 ## About Me
 
