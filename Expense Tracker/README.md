@@ -1,5 +1,9 @@
 # [Expense Tracker]()
 
+[![Python](https://img.shields.io/badge/Python-3.12.0-blue?style=flat&logo=python)](https://www.python.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-green?style=flat)](https://docs.python.org/3/library/tkinter.html)
+[![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat)](https://www.sqlite.org/)
+[![TkCalendar](https://img.shields.io/badge/TkCalendar-yellow?style=flat)](https://pypi.org/project/tkcalendar/)
 
 
 
