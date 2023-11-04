@@ -22,6 +22,11 @@ Welcome to my COB Python Development repository! Here, you will find a collectio
    - **Description**: An intuitive and light weight Python application for tracking daily expenses. Record, view, and manage your spending with ease using this simple expense tracker. Stay in control of your finances and keep an eye on your daily transactions.
 
    - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/c28425632160f021de7309a27f3e69b8d6be54ce/Expense%20Tracker)
+#### Task 4
+4. **Chat Application**
+   - **Description**: The Chat Application is a simple Python-based chat client that allows users to connect to a chat server and engage in real-time messaging. This application is designed with a graphical user interface (GUI) using the Tkinter library, making it             user-friendly and accessible.
+     
+   - [**Demo/Documentation**](https://github.com/raj007-star/COB-Python-Development/tree/88448f47e9611a0a3d9a2b5620814e8a54f5ba24/Chat%20App)
 
 ## About Me
 
