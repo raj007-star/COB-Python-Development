@@ -1,4 +1,10 @@
 # Chat Application
+![Python](https://img.shields.io/badge/Python-3.12.0-blue)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
+![Socket Programming](https://img.shields.io/badge/Socket-Programming-red)
+![Multithreading](https://img.shields.io/badge/Multithreading-green)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 The Chat Application is a simple Python-based chat client that allows users to connect to a chat server and engage in real-time messaging. This application is designed with a graphical user interface (GUI) using the Tkinter library, making it user-friendly and accessible.
 ---
