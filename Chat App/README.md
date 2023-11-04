@@ -8,7 +8,11 @@ The Chat Application is a simple Python-based chat client that allows users to c
 
 ## Demo
 
-<video src="Demo.mp4" controls title="Chat Application"></video>
+
+https://github.com/raj007-star/COB-Python-Development/assets/83889037/9c15735f-ba29-4f31-8cfb-878ce5c2fd4a
+
+
+
 
 ## Features
 
